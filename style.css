@@ -1,0 +1,172 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.img{
+    background-image: url(images/donation1.jpg);
+    margin:0;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+    text-align:center;
+    padding: 100px 0;
+   
+
+}
+.img h1{
+font-size: 50px;
+color: white;
+}
+.img p{
+    /* margin:20px; */
+    text-align: center;
+    font-weight: 10px;
+    line-height: 25px;
+    color:white;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.img button{
+    width: 150px;
+    height: 40px;
+    border-radius: 5%;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    box-shadow: 10px 10px 40px black;
+    border-color: none;
+    border: 50px;
+    font-size:larger;
+
+}
+.text h2{
+    text-align: center;
+    margin-top: 150px;
+}
+.text p{
+    text-align: center;
+    padding-right: 300px;
+    padding-left:300px;
+}
+.tk button{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+   border: 50px;
+   border-radius: 5px;
+   margin-top: 30px;
+   
+
+}
+#one {
+   background-color:rgba(255, 0, 0, 0.301);
+   border-color: red;
+   
+}
+.btn{
+    width: 150px;
+    height: 40px;
+    border-radius: 5%;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border-color: none;
+    border: 50px;
+    font-size:larger;
+    margin-left: 45%;
+    margin-top: 70px;
+
+}
+  
+    .our h1{
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    .our p{
+        text-align: center;
+        padding-left: 300px;
+        padding-right: 300px;
+    }
+.half-width{
+    width: 60%;
+    margin-top: 50px;
+    
+    display: flex;
+    padding-left: 280px;
+    border-radius: 5px;
+   
+
+}
+#food{
+    background-color:rgba(127, 255, 212, 0.247);
+    
+}
+#education{
+    background-color:rgba(255, 255, 0, 0.281)
+   
+}
+#shelter{
+    background-color: rgba(255, 0, 0, 0.178);
+   
+}
+.flexible{
+    margin-top: 80px;
+    margin-bottom: 70px;
+    display:flex;
+}
+.flex{
+    width:50%;
+    padding-left: 5%;
+}
+.flex img{
+    width:80%;
+}
+.bt{
+    width: 180px;
+    height: 40px;
+    
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border-color: none;
+    border: 50px;
+    font-size:larger;
+    margin-top: 10%;
+}
+#email{
+    width: 200px;
+    height: 25px;
+    margin-left: 35%;
+    margin-top: 50px;
+}
+.btnn{
+    width:150px ;
+    height: 30px;
+    margin-right:15%;
+    background-color: rgb(255, 0, 0);
+    border-color: none;
+    border: 50px;
+    color: white;
+    font-size: larger;
+}
+.foot{
+    background-color:black;
+    height: 150px;
+    margin-top: 60px;
+    
+}
+.foot p{
+    text-align: center;
+    color: red;
+    padding-top: 25px;
+    font-style: italic;
+    
+  
+}
+.foot small{
+    text-align: center;
+    color: white;
+    padding-left: 47%;
+   
+  
+}
+
